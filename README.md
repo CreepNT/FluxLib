@@ -1,10 +1,12 @@
 # FluxLib : a library for PlayStation™️ Vita
 
-FluxLib (unofficial name) is a library that was used by Mass Media Productions for the Ratchet & Clank Trilogy HD port to PS Vita.
-(*It most likely has been used for the Jak & Daxter HD version, at least on PS Vita™️, but I haven't looked at any of those yet. Feel free to send evidence of this in issues.*)
+FluxLib (unofficial name) is a library that was used by Mass Media Productions for the Ratchet & Clank Trilogy HD and Jak & Daxter HD port to PS Vita™️.
+(*It might have been used for the Jak & Daxter HD on PS3™️ but I haven't looked at any of those versions. Feel free to send evidence of this.*)
 
 This repository hosts a rewritten, open-sourced version produced by reverse-engineering.
-It is made to work with DolceSDK but can easily be adapted.
+The rewritten code will NOT be a 1:1 copy of the decompiled code, some function might be improved/modified.
+The exposed API, however, will be 100% compliant with the original FluxLib. 
+This means that the library's behaviour cannot be changed nor expanded.
 All the code is avaliable under the GPLv3 license.
 
 **THIS REPOSITORY IS CURRENTLY IN A VERY W.I.P. STATE, MOST OF THE INFORMATION IS BASED ON MY ASSUMPTIONS AND MIGHT BE INCORRECT.**
